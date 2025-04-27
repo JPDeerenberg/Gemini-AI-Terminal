@@ -26,8 +26,8 @@ Minimal setup — ready in minutes.
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/gemini-ai-terminal.git
-cd gemini-ai-terminal
+git clone https://github.com/JPDeerenberg/Gemini-AI-Terminal
+cd Gemini-AI-Terminal
 ```
 
 3. Install the required packages
