@@ -72,8 +72,8 @@ Bye!
 
 # License
 
-This project is open-source and free to use.
-Feel free to improve it, fork it, or share it!
+This project is with a MIT license, read the file for more info.
+Feel free to improve it, fork it, or share it; it's free!
 
 
 # Notes
@@ -85,4 +85,5 @@ Very lightweight — no heavy libraries or frameworks needed.
 
 # Credits
 
+Made by JPDeerenberg
 Powered by Google's Gemini 2.0 Flash model.
