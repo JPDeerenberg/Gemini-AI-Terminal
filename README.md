@@ -18,7 +18,9 @@ Minimal setup — ready in minutes.
 # Requirements
 
 1. Python 3.8 or higher
-2. A Gemini API key from Google
+
+2. A Gemini API key from Google (https://aistudio.google.com/app/apikey)
+
 3. Internet connection
 
 
@@ -50,7 +52,7 @@ Tip: Add this line to your shell configuration (like .bashrc or .zshrc) to load 
 
 4. Run the AI Terminal
 ```
-python3 gemini-cli.py
+python3 Gemini-cli.py
 ```
 Start chatting right away!
 
