@@ -47,7 +47,7 @@ export GOOGLE_API_KEY="your-api-key-here"
 ```
 Replace your-api-key-here with your actual API key.
 
-Tip: Add this line to your shell configuration (like .bashrc or .zshrc) to load it automatically.
+Tip: Add this line to your shell configuration file (such as .bashrc or .zshrc) to load it automatically.
 
 
 4. Run the AI Terminal
@@ -72,13 +72,11 @@ Bye!
 
 # License
 
-This project is with a MIT license, read the file for more info.
-Feel free to improve it, fork it, or share it; it's free!
-
+This project is licensed under MIT; see the file for details.  Feel free to improve, fork, or share it; it's free!
 
 # Notes
 
-Should work on any Linux, MacOS, or Windows system with Python installed.
+Should work on any Linux, macOS, or Windows system with Python installed, but you might need a different approach for Windows with the API key.
 
 Very lightweight — no heavy libraries or frameworks needed.
 
