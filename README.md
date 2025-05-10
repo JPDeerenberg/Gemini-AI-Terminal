@@ -80,6 +80,7 @@ Should work on any Linux, macOS, or Windows system with Python installed, but yo
 
 Very lightweight — no heavy libraries or frameworks needed.
 
+I am currently working on more features, such as being able to choose more Gemini models, better markup, command history, and a better API system.
 
 # Credits
 
